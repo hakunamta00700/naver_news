@@ -1,0 +1,2941 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pos",
+				"PostingListView	(class)"
+			],
+			[
+				"Bo",
+				"BoardDetailView	(class)"
+			],
+			[
+				"Po",
+				"PostingListView	(class)"
+			],
+			[
+				"P",
+				"PostingDetailView	(class)"
+			],
+			[
+				"verb",
+				"verbose_name"
+			],
+			[
+				"Mo",
+				"Model_full	Model (full)"
+			],
+			[
+				"detail",
+				"detail_way_of_campaign"
+			],
+			[
+				"Url",
+				"URLField	(class)"
+			],
+			[
+				"UserW",
+				"UserWalletInline	(class)"
+			],
+			[
+				"allo",
+				"allow_comments"
+			],
+			[
+				"ST",
+				"STATICFILES_DIRS	(statement)"
+			],
+			[
+				"get_page_follower",
+				"get_page_follower_direct	(function)"
+			],
+			[
+				"passw",
+				"PASSWD	(statement)"
+			],
+			[
+				"auto_",
+				"auto_now_add"
+			],
+			[
+				"Date",
+				"DateTimeField	(class)"
+			],
+			[
+				"bs3but",
+				"bs3-button:success	bs3-button-success"
+			],
+			[
+				"bs3panel",
+				"bs3-panel:info	bs3-panel-info"
+			],
+			[
+				"bs3-panel",
+				"bs3-panel:footer	bs3-panel-footer"
+			],
+			[
+				"bs3-he",
+				"bs3-panel:heading	bs3-panel-heading"
+			],
+			[
+				"bs3-pan",
+				"bs3-panel	bs3-panel"
+			],
+			[
+				"views",
+				"views_default	(module)"
+			],
+			[
+				"bs3-p",
+				"bs3-panel	bs3-panel"
+			],
+			[
+				"bs3-l",
+				"bs3-label	bs3-label"
+			],
+			[
+				"bs3-ro",
+				"bs3-row	bs3-row"
+			],
+			[
+				"bs3-button",
+				"bs3-button:info	bs3-button-info"
+			],
+			[
+				"bs3-",
+				"bs3-button	bs3-button"
+			],
+			[
+				"Base",
+				"BaseView	(class)"
+			],
+			[
+				"BaseC",
+				"BaseCampaignAdmin	(class)"
+			],
+			[
+				"SEle",
+				"SelectMediumView	(class)"
+			],
+			[
+				"Typ",
+				"TypeA_AdditionalInfo	(class)"
+			],
+			[
+				"redire",
+				"redirect_url_name	(statement)"
+			],
+			[
+				"BASE",
+				"BaseEditView	(class)"
+			],
+			[
+				"Ma",
+				"MAKING_VIDEO_PROGRESS	(statement)"
+			],
+			[
+				"Reque",
+				"RequestUserIsNotCampaignsAuthor	(class)"
+			],
+			[
+				"Sel",
+				"SelectCostWay	(class)"
+			],
+			[
+				"Fi",
+				"Fieldset	(class)"
+			],
+			[
+				"In",
+				"IntegerField	(class)"
+			],
+			[
+				"to",
+				"toggle_valid	(function)"
+			],
+			[
+				"get",
+				"getMousePos	(function)"
+			],
+			[
+				"py",
+				"pyautogui	(module)"
+			],
+			[
+				"current",
+				"currentMouseY	(statement)"
+			],
+			[
+				"oldM",
+				"oldMouseY	(statement)"
+			],
+			[
+				"old",
+				"oldMouseY	(statement)"
+			],
+			[
+				"cu",
+				"currentMouseX	(statement)"
+			],
+			[
+				"cur",
+				"currentMouseY	(statement)"
+			],
+			[
+				"rever",
+				"reverse_lazy	(statement)"
+			],
+			[
+				"Bi",
+				"BidingCampaign	(class)"
+			],
+			[
+				"Public",
+				"PublicCampaignProgressItem	(class)"
+			],
+			[
+				"Bid",
+				"BidingProposalItem	(class)"
+			],
+			[
+				"te",
+				"templatetags	(module)"
+			],
+			[
+				"Mana",
+				"ManyToManyField	(class)"
+			],
+			[
+				"Man",
+				"ManyToManyField	(class)"
+			],
+			[
+				"Au",
+				"AUTH_USER_MODEL"
+			],
+			[
+				"For",
+				"ForeignKey	(class)"
+			],
+			[
+				"target",
+				"target_object_name	(statement)"
+			],
+			[
+				"Medium",
+				"MediumEditView	(class)"
+			],
+			[
+				"Camp",
+				"CampaignEditView	(class)"
+			],
+			[
+				"redi",
+				"redirect_url_name	(statement)"
+			],
+			[
+				"Tag",
+				"TagField	(class)"
+			],
+			[
+				"campain",
+				"campaign_form	(statement)"
+			],
+			[
+				"auto",
+				"auto_now_add	(param)"
+			],
+			[
+				"de",
+				"DETAIL_WAY_OF_CAMPAIGN	(statement)"
+			],
+			[
+				"Contac",
+				"ContactForm2	(class)"
+			],
+			[
+				"Con",
+				"ContactForm2	(class)"
+			],
+			[
+				"Wi",
+				"WizardView	(class)"
+			],
+			[
+				"camp",
+				"campaign_wizard_forms	(module)"
+			],
+			[
+				"Form",
+				"FormHelper	(class)"
+			],
+			[
+				"C",
+				"CampaignWiazardForm1	(class)"
+			],
+			[
+				"Lo",
+				"LoginRequiredMixin	(import)"
+			],
+			[
+				"utf",
+				"utf8	coding utf-8"
+			],
+			[
+				"sp",
+				"splitext	(function)"
+			],
+			[
+				"HTTP",
+				"HTTP_401_UNAUTHORIZED"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"cache",
+				"cache_hashid"
+			],
+			[
+				"remove",
+				"removeAllVideoList"
+			],
+			[
+				"refre",
+				"refreshCategoryList"
+			],
+			[
+				"category",
+				"categoryID"
+			],
+			[
+				"settins",
+				"settings_api"
+			],
+			[
+				"Ap",
+				"AppSettingsSerializer	(class)"
+			],
+			[
+				"App",
+				"AppSettingsSerializer	(class)"
+			],
+			[
+				"Reported",
+				"ReportedVideo	(class)"
+			],
+			[
+				"REported",
+				"ReportedVideo	(class)"
+			],
+			[
+				"Repo",
+				"ReportedVideo	(class)"
+			],
+			[
+				"User",
+				"UserChannelSerializer	(class)"
+			],
+			[
+				"profile_im",
+				"profile_img_url"
+			],
+			[
+				"Video",
+				"VideoSerializer	(class)"
+			],
+			[
+				"upload",
+				"upload_video"
+			],
+			[
+				"close",
+				"closeUploadModal"
+			],
+			[
+				"auth",
+				"authenticated"
+			],
+			[
+				"showMo",
+				"showUploadModalDlg"
+			],
+			[
+				"showUp",
+				"showUploadModalDlg"
+			],
+			[
+				"clo",
+				"closeModal"
+			],
+			[
+				"thumbnail",
+				"thumbnailUrl"
+			],
+			[
+				"isVali",
+				"isValidThumnailURL"
+			],
+			[
+				"thum",
+				"thumbnailUrl"
+			],
+			[
+				"con",
+				"controller	AngularJS"
+			],
+			[
+				"flat",
+				"flatpages_urls"
+			],
+			[
+				"Recruit",
+				"RecruitViewSet	(class)"
+			],
+			[
+				"RecruitAd",
+				"RecruitAdmin	(class)"
+			],
+			[
+				"filte",
+				"filtered_urls	(statement)"
+			],
+			[
+				"channe",
+				"channels_yt_video_url_all	(statement)"
+			],
+			[
+				"chann",
+				"channels_yt_video_url_all	(param)"
+			],
+			[
+				"chan",
+				"channels_yt_video_url_all	(statement)"
+			],
+			[
+				"API",
+				"APIRequestFactory	(import)"
+			],
+			[
+				"HTT",
+				"HTTP_202_ACCEPTED"
+			],
+			[
+				"retrieve",
+				"retrieve_channels_latest_feed_all"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"side",
+				"sidemenu_mode"
+			],
+			[
+				"Model",
+				"ModelMultipleChoiceField	(import)"
+			],
+			[
+				"admin",
+				"admin_order_field"
+			],
+			[
+				"requestC",
+				"requestCategoryList"
+			],
+			[
+				"Reply",
+				"ReplyAdmin	(class)"
+			],
+			[
+				"Cate",
+				"CategoryAdmin	(class)"
+			],
+			[
+				"Seria",
+				"SerializerMethodField	(class)"
+			],
+			[
+				"succe",
+				"successr	success function with response"
+			],
+			[
+				"succ",
+				"successr	success function with response"
+			],
+			[
+				"DEFAIU",
+				"DEFAULT_FEEDBACK_EMAIL"
+			],
+			[
+				"Em",
+				"EmailMessage"
+			],
+			[
+				"Facebook",
+				"FacebookInline	(class)"
+			],
+			[
+				"IOS",
+				"IOS_STOREURL"
+			],
+			[
+				"orig",
+				"originalParentViewHeight"
+			],
+			[
+				"show",
+				"showPopupWithParameter"
+			],
+			[
+				"IS",
+				"IS_IOS"
+			],
+			[
+				"suc",
+				"successr	success function with response"
+			],
+			[
+				"Re",
+				"Restapi"
+			],
+			[
+				"DEVELP",
+				"DEVELOPMENT_VERSIONINFO"
+			],
+			[
+				"keystore",
+				"keystorePath	(statement)"
+			],
+			[
+				"un",
+				"unsignedAPKPath	(statement)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "naver_news/news.py",
+			"settings":
+			{
+				"buffer_size": 1311,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "setup.py",
+			"settings":
+			{
+				"buffer_size": 218,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Ionic build system",
+					""
+				],
+				[
+					"Packages/JSHint/JSHint.sublime-build",
+					""
+				],
+				[
+					"Packages/JSLint/JSLint.sublime-build",
+					""
+				],
+				[
+					"Packages/User/coffescript.sublime-build",
+					""
+				],
+				[
+					"Packages/User/golang.sublime-build",
+					""
+				],
+				[
+					"Packages/User/kivy.sublime-build",
+					""
+				],
+				[
+					"Packages/User/nodejs.sublime-build",
+					""
+				],
+				[
+					"Packages/User/preview-browser.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/nodejs.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Ionic build system",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Virtualenv/Python + Virtualenv.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Virtualenv/Python + Virtualenv.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Virtualenv/Python + Virtualenv.sublime-build",
+					""
+				],
+				[
+					"Packages/User/coffescript.sublime-build",
+					""
+				],
+				[
+					"Packages/User/golang.sublime-build",
+					""
+				],
+				[
+					"Packages/User/preview-browser.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Virtualenv/Python + Virtualenv.sublime-build",
+					""
+				],
+				[
+					"Packages/User/golang.sublime-build",
+					""
+				],
+				[
+					"Packages/User/kivy.sublime-build",
+					""
+				],
+				[
+					"Packages/User/preview-browser.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/python3.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "pkg in",
+		"selected_items":
+		[
+			[
+				"pkg in",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"remove",
+				"Whitespace: Remove Trailing Whitespace"
+			],
+			[
+				"django",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"stsdj",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"or",
+				"Python Refactor: Organize Imports"
+			],
+			[
+				"fix",
+				"Python Fix Imports"
+			],
+			[
+				"org",
+				"Python Refactor: Organize Imports"
+			],
+			[
+				"syntax daj",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"set django",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"packge in",
+				"Package Control: Install Package"
+			],
+			[
+				"auto",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"remo",
+				"Whitespace: Remove Trailing Whitespace"
+			],
+			[
+				"rmove",
+				"Whitespace: Remove Trailing Whitespace"
+			],
+			[
+				"removehi",
+				"Whitespace: Remove Trailing Whitespace"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"fi",
+				"Python Fix Imports"
+			],
+			[
+				"orga",
+				"Python Refactor: Organize Imports"
+			],
+			[
+				"import",
+				"Python Fix Imports"
+			],
+			[
+				"sort",
+				"Python Imports Sorter: sort imports"
+			],
+			[
+				"pakc in",
+				"Package Control: Install Package"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pretty",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"go book",
+				"SublimeBookmarks: Goto Bookmark"
+			],
+			[
+				"book",
+				"SublimeBookmarks: Remove All Bookmarks (Clear Bookmarks)"
+			],
+			[
+				"pkg remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pakin",
+				"Package Control: Install Package"
+			],
+			[
+				"TODO",
+				"TodoReview: Open Files"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"sublimePython",
+				"SublimeREPL: Python"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"in",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"pep8",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"t",
+				"Tasks: New document"
+			],
+			[
+				"tas",
+				"Tasks: New"
+			],
+			[
+				"task",
+				"Tasks: New"
+			],
+			[
+				"pkgin",
+				"Package Control: Install Package"
+			],
+			[
+				"editp",
+				"Project: Edit Project"
+			],
+			[
+				"project ",
+				"Project: Save As"
+			],
+			[
+				"pro",
+				"Project: Edit"
+			],
+			[
+				"wod",
+				"Word Wrap: Toggle"
+			],
+			[
+				"jsli",
+				"JSLint"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"set shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"set",
+				"Set Syntax: Python"
+			],
+			[
+				"wrap toggle",
+				"Word Wrap: Toggle"
+			],
+			[
+				"django set",
+				"Django: Set Virtual Environment"
+			],
+			[
+				"setV",
+				"Django: Set Virtual Environment"
+			],
+			[
+				"DjangoShe",
+				"Django: Shell"
+			],
+			[
+				"co",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"pkg ins",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"set sy css",
+				"Set Syntax: CSS"
+			],
+			[
+				"pkg inst",
+				"Package Control: Install Package"
+			],
+			[
+				"search ",
+				"Evernote: Search Note"
+			],
+			[
+				"evernote",
+				"Evernote: Search Note"
+			],
+			[
+				"pkg remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Sub",
+				"SublimeREPL: Python"
+			],
+			[
+				"LINT",
+				"Python: Enable Pep8 Linting On View"
+			],
+			[
+				"set python",
+				"Set Syntax: Python"
+			],
+			[
+				"dj",
+				"Set Syntax: Python (Django)"
+			],
+			[
+				"pkg en",
+				"Package Control: Enable Package"
+			],
+			[
+				"pkg",
+				"Package Control: Install Package"
+			],
+			[
+				"ever sear",
+				"Evernote: Search Note"
+			],
+			[
+				"ever",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"send",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"edit ",
+				"Project: Edit Project"
+			],
+			[
+				"pkg dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"project",
+				"Project: Edit"
+			],
+			[
+				"ipython",
+				"Open IPython Notebook"
+			],
+			[
+				"open",
+				"Open IPython Notebook"
+			],
+			[
+				"pkg install",
+				"Package Control: Install Package"
+			],
+			[
+				"refactor",
+				"Python Refactor: Organize Imports"
+			],
+			[
+				"ref",
+				"Python Refactor: Organize Imports"
+			],
+			[
+				"prefer br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"col",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"coll",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"toto",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"pkg ion",
+				"Package Control: Install Package"
+			],
+			[
+				"prefer",
+				"Preferences: Settings - Default"
+			],
+			[
+				"setsyntax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"PKG IN",
+				"Package Control: Install Package"
+			],
+			[
+				"break",
+				"Python Breakpoints: Clear All"
+			],
+			[
+				"pklg install",
+				"Package Control: Install Package"
+			],
+			[
+				"edit",
+				"Project: Edit Project"
+			],
+			[
+				"eidt",
+				"Project: Edit Project"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"T",
+				"TodoReview: Project Files"
+			],
+			[
+				"todore",
+				"TodoReview: Project Files"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"TAsk",
+				"Tasks: Archive"
+			],
+			[
+				"snip",
+				"Snippet: Prototype"
+			],
+			[
+				"up",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"evernote se",
+				"Evernote: Search Note"
+			],
+			[
+				"ever se",
+				"Evernote: Search Note"
+			],
+			[
+				"ever update",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"ev sear",
+				"Evernote: Search Note"
+			],
+			[
+				"update",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"pever",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"evernote ",
+				"Evernote Settings: User"
+			],
+			[
+				"everno up",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"ever ",
+				"Evernote: Search Note"
+			],
+			[
+				"eup",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"package r",
+				"Package Control: Remove Package"
+			],
+			[
+				"edit pr",
+				"Project: Edit Project"
+			],
+			[
+				"set syn javascript",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"ev er ",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"ever new",
+				"Evernote: New empty note"
+			],
+			[
+				"evert",
+				"Evernote: Search Note"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"pr edit",
+				"Project: Edit Project"
+			],
+			[
+				"packager instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package  remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"evnote",
+				"Set Syntax: Evernote Note"
+			]
+		],
+		"width": 454.0
+	},
+	"console":
+	{
+		"height": 408.0,
+		"history":
+		[
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/david/workspace/naver_news",
+		"/C/Users/david/workspace/naver_news/naver_news"
+	],
+	"file_history":
+	[
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/models.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/counting/models.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/counting/migrations/0001_initial.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/profiles/models.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/rookiest_adnet/settings/base.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/rookiest_adnet/settings/development.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/counting/migrations/0002_auto_20160803_1203.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/forum/models.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/forum/urls.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/urls.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/rookiest_adnet/urls.py",
+		"/C/Users/david/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/templates/mediums/list.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/views/campaign.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/test_note.notes",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/static/js/fav.js",
+		"/C/Users/david/workspace/djangocms/tutorial-project/.-n",
+		"/C/Users/david/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/forum/templates/forum/board_list.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/templates/campaigns/detail.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/views/base.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/views/medium.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/templates/mediums/detail.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/templates/mediums/_common.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/templates/common.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/forms.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/forum/forms.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/forum/templates/forum/board_detail.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/forum/templates/forum/posting_list.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/forum/templates/forum/posting_detail.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/forum/templates/board_list.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/forum/templates/posting_list.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/forum/templates/board_detail.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/forum/migrations/0003_posting_board.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/forum/tests.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/forum/templates/forms.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/profiles/views.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/templates/campaigns/_summary.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/profiles/templates/profiles/show_profile.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/views_default.py",
+		"/C/Users/david/Documents/mycostom_key_conemu.xml",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/profiles/apps.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/profiles/admin.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/profiles/signals.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/profiles/__init__.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/static/site/css/main.css",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/templates/comments/form.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/templatetags/adnet_tags.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/templates/ui/_comment.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/templates/base.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/static_files/site/css/main.css",
+		"/c/Users/david/workspace/project/sns_collect_final/facebook/collector.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet.sublime-project",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/rookiest_adnet/admin.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/accounts/apps.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/venv/Lib/site-packages/django_comments_xtd/demos/simple_threads/templates/comments/list.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/static/bootstrap/css/bootstrap.css",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/commentz/models.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/static/site/css/blog.css",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/logs/django.log",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/rookiest_adnet/logger.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/templates/_brandname.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/templates/admin/base_site.html_old",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/templates/ui/_no_img.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/accounts/urls.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/scripts/collect_follower.py",
+		"/c/Users/david/workspace/project/sns_collect_final/facebook/follower.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/apps.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/migrations/0001_initial.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/scripts/hello.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/migrations/0004_auto_20160713_1440.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/migrations/0006_auto_20160714_1031.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/migrations/0005_auto_20160714_1029.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/migrations/0006_auto_20160712_1147.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/migrations/0005_auto_20160712_1147.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/migrations/0004_auto_20160711_1440.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/migrations/0002_auto_20160711_1439.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/migrations/0003_auto_20160711_1439.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/migrations/0008_auto_20160713_1111.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/profiles/migrations/0002_auto_20160520_1051.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/migrations/0007_auto_20160712_1627.py",
+		"/c/Users/david/workspace/project/sns_collect_final/facebook/account.py",
+		"/c/Users/david/workspace/project/sns_collect_final/facebook/__init__.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/rookiest_adnet/apps/adnet/serializers.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/scripts/collect_follower.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/tasks.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/medium_analyzer/__init__.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/medium_analyzer/models.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/medium_analyzer/admin.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/medium_analyzer/apps.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/medium_analyzer/tests.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/migrations/0007_auto_20160711_1434.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/migrations/0005_auto_20160708_1834.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/migrations/0004_auto_20160708_1644.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/migrations/0003_auto_20160708_1642.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/migrations/0002_auto_20160708_1359.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/migrations/0008_auto_20160711_1435.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/libs/__init__.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/libs/get_follow.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/templates/campaigns/_deal.html",
+		"/C/Users/david/workspace/rookiest/rookiest_backend/requirements.txt",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/rookiest_adnet/settings/local.env",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/static/site/sass/adnet.sass",
+		"/C/Users/david/oj.html",
+		"/C/Users/david/ohji.html",
+		"/c/Users/david/.vimrc",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/templates/ui/_panel_header.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/templates/ui/_dl.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/templates/ui/_pannel.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/__init__.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/templates/campaigns/edit.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/templates/ui/_message_from_campaign.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/templates/ui/_message_from_medium.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/templates/strings/_campaigns.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/views.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/templates/admin/base_site.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/accounts/admin.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/admin.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/accounts/models.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/templates/_navbar.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/templates/campaigns/_common.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/templates/mediums/edit.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/templates/campaigns/list.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/profiles/forms.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/profiles/tests.py",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/profiles/templates/profiles/edit_profile.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/templates/ui/_btn_nav.html",
+		"/C/Users/david/workspace/mac/rookiest_adnet/rookiest_adnet/src/adnet/views/exceptions.py"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 164.0,
+		"where_history":
+		[
+			"C:\\Users\\david\\workspace\\mac\\rookiest_adnet\\rookiest_adnet",
+			"",
+			"*.html",
+			"*.PY",
+			"*.js",
+			"*.py",
+			"*.js",
+			"*.html",
+			"*.js",
+			"",
+			"*.js",
+			"*.py",
+			"*.js",
+			"*.py",
+			"*.js",
+			"*",
+			"*.scss",
+			"*.py",
+			"*.js",
+			"<current file>",
+			"",
+			"*.py",
+			"*.js",
+			"",
+			"*.py",
+			"*.js",
+			"*.py",
+			"<current file>",
+			"*.js",
+			"<current file>",
+			"",
+			"*.html, *.py",
+			"*.html",
+			"*.py",
+			"*.js",
+			"*.py",
+			"",
+			"*.js,/Users/david/workspace-/rookiest/rookiest_ionic_app/www/js",
+			"*.py",
+			"*.html",
+			"*.py",
+			"*.html",
+			"*",
+			"*.py",
+			"*.js",
+			"*.py",
+			"*.html, *.js,/Users/david/workspace-/rookiest/rookiest_ionic_app/www/js",
+			"*.html, *.js",
+			"/Users/david/workspace-/rookiest/rookiest_ionic_app/www/js",
+			"*.js",
+			"/Users/david/workspace-/rookiest/rookiest_backend/rookiest_backend/apps/",
+			"/Users/david/workspace-/rookiest/rookiest_backend/rookiest_backend/apps/*.py",
+			"*.py",
+			"*.js",
+			".js",
+			"*.py",
+			"*.js",
+			"*.py",
+			"<current file>",
+			"",
+			"<current file>",
+			"",
+			"*.js",
+			"<current file>",
+			"*.js",
+			"<current file>",
+			"*.py",
+			"*.js",
+			"*.py",
+			".py",
+			"*.js",
+			"*.py",
+			"",
+			"<current file>",
+			"",
+			"<current file>",
+			"*.py",
+			"*.js",
+			"*.py",
+			"",
+			"<current file>",
+			"/Users/david/workspace-/rookiest/rookiest_ionic_app/www/js",
+			"/Users/david/workspace-/rookiest/rookiest_ionic_app,-*assets*.js",
+			"/Users/david/workspace-/rookiest/rookiest_ionic_app,-*asset*.js",
+			"/Users/david/workspace-/rookiest/rookiest_ionic_app,*asset*.js",
+			"/Users/david/workspace-/rookiest/rookiest_ionic_app",
+			"/Users/david/workspace-/rookiest/rookiest_backend/",
+			"/Users/david/workspace-/rookiest/rookiest_ionic_app/www",
+			"",
+			"<current file>",
+			"",
+			"<current file>",
+			"",
+			"<current file>",
+			"",
+			"*.js",
+			"<current file>",
+			"",
+			"/Users/david/workspace-/project/rookiest_app/dev/try_side_menu/www/css",
+			"",
+			"*.html",
+			"*.py,<open folders>",
+			"",
+			"*.py",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"manytomany",
+			"medium",
+			"posting",
+			"article",
+			"TagField",
+			"tag",
+			"json_view",
+			"json",
+			"GenericRelation",
+			"content",
+			"win",
+			"system",
+			"win",
+			"Activate console",
+			"campaign.",
+			"campaign",
+			"if",
+			"DETAIL_WAY_OF_CAMPAIGN",
+			"AdditionalCampaignInfo",
+			"KIND_OF_CAMPAIGN",
+			"DETAIL_WAY_OF_CAMPAIGN",
+			"TypeC",
+			"a",
+			"Posting",
+			"default_app_config",
+			"bio",
+			"page-header",
+			"divider",
+			"border-bottom",
+			"page-header",
+			"medium-detail",
+			"object.enable",
+			"object.enabled",
+			"comment_xtd",
+			"comment_xt",
+			"comment_x",
+			"comment",
+			"_brandname.html",
+			"Rookiest Adnet",
+			"send-from-campaign",
+			"send-from-campaign'",
+			"Medium",
+			"medium",
+			"CountItem",
+			"WebDriverWait",
+			"rookiest_adnet.apps",
+			"profiles",
+			"message",
+			"SPREAD_PROVIDED_VIDEO",
+			"next_step",
+			"select-medium",
+			"ArrayField",
+			"LikeManager",
+			"Like",
+			"JSONField",
+			"send-from-campaign",
+			"'send-from-campaign' ",
+			"post",
+			"psy",
+			"!",
+			"suit",
+			"STATIC",
+			"Mustache",
+			"campain",
+			"posts",
+			"follow",
+			"posts",
+			"less",
+			"object",
+			"-10",
+			"admin",
+			"bootstrapped_goodies_tags",
+			"adnet:campaign:create:info",
+			"common.html",
+			"list-campaigns",
+			"forms.Form",
+			"FormHelper",
+			"Next",
+			"forms",
+			"DETAIL_WAY_OF_CAMPAIGN",
+			"MAKING_VIDEO_PROGRESS",
+			"(AdditionalCampaignInfo.Meta):",
+			"CostWaySelectView",
+			"KindSelectView",
+			"CampaignForm",
+			"THUMBNAIL",
+			"Thumbnail",
+			"forms.Form",
+			"BaseCampaign",
+			"models.Campaign",
+			"BaseCampaign",
+			"Campaign",
+			"DEBUG",
+			"BaseEditView",
+			"CampaignForm",
+			"CampaignBasicInfoForm",
+			"CampaignForm",
+			"boot",
+			"django.template.backends.django",
+			"STATIC",
+			"site",
+			"navbutton.html",
+			"super",
+			"document",
+			"mediums_form",
+			"forms.MediumsForm",
+			"models",
+			"forms.mediumsForm",
+			"models.mediums",
+			"campaign",
+			"Campaign",
+			"campaign",
+			"Campaign",
+			"campaign",
+			"Campaign",
+			"campaign",
+			"Campaign",
+			"campaign",
+			"Campaign",
+			"campaign",
+			"Campaign",
+			"campaign",
+			"Campaign",
+			"campaign",
+			"Campaign",
+			"campaign",
+			"Campaign",
+			"d "
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ImageField",
+			"'])\n",
+			"):\n",
+			"                        <img image-lazy-src={{video.thumbnail}} lazy-scroll-resize=\"true\" class=\"grid-col-thumbnail\" image-lazy-loader=\"lines\" >\n<img image-lazy-src={{video.thumbnail}} lazy-scroll-resize=\"true\" class=\"grid-col-thumbnail\" image-lazy-loader=\"lines\" >",
+			"rookiest_backend",
+			"SuperuserRequiredMixin",
+			"page_name",
+			"page_url",
+			"logger",
+			"$http.get(url,{cache:true});",
+			"Rookiest.RESTFUL_SERVER.TAG",
+			"WORK_DIR",
+			"RESTAPISERVER_TAG",
+			"\"templates/",
+			"\"http://192.168.0.2:8100/templates/",
+			"\"templates/",
+			"\"http://m.rookiest.co.kr/templates/",
+			"OUT_JSON_FILE",
+			"IN_CSV_FILE",
+			"channelInfo",
+			"Channel.objects.get(id",
+			"PlayListCollection",
+			"share",
+			"img",
+			"current_video_id()",
+			"elm",
+			"scope",
+			"$scope",
+			"loginForm",
+			"{{videoid}}",
+			"playlists",
+			"videos",
+			"users",
+			"angularOauth2",
+			"queryString",
+			"testVideolist"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "naver_news/news.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1310,
+								1310
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "setup.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								218,
+								218
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 118.0
+	},
+	"output.exec":
+	{
+		"height": 662.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "naver_news_getter.py",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"setde",
+				"Rookiest Adnet\\rookiest_adnet\\src\\rookiest_adnet\\settings\\development.py"
+			],
+			[
+				"base",
+				"Rookiest Adnet\\rookiest_adnet\\src\\rookiest_adnet\\settings\\base.py"
+			],
+			[
+				"countmodels",
+				"Rookiest Adnet\\rookiest_adnet\\src\\counting\\models.py"
+			],
+			[
+				"fomodels",
+				"Rookiest Adnet\\rookiest_adnet\\src\\forum\\models.py"
+			],
+			[
+				"setbase",
+				"Rookiest Adnet\\rookiest_adnet\\src\\rookiest_adnet\\settings\\base.py"
+			],
+			[
+				"fomodel",
+				"Rookiest Adnet\\rookiest_adnet\\src\\forum\\models.py"
+			],
+			[
+				"fomodl",
+				"Rookiest Adnet\\rookiest_adnet\\src\\forum\\models.py"
+			],
+			[
+				"counmodl",
+				"Rookiest Adnet\\rookiest_adnet\\src\\counting\\models.py"
+			],
+			[
+				"admodels",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\models.py"
+			],
+			[
+				"profile/models",
+				"Rookiest Adnet\\rookiest_adnet\\src\\profiles\\models.py"
+			],
+			[
+				"coun/model",
+				"Rookiest Adnet\\rookiest_adnet\\src\\counting\\models.py"
+			],
+			[
+				"admodel",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\models.py"
+			],
+			[
+				"formodels",
+				"Rookiest Adnet\\rookiest_adnet\\src\\forum\\models.py"
+			],
+			[
+				"foveiw",
+				"Rookiest Adnet\\rookiest_adnet\\src\\forum\\views.py"
+			],
+			[
+				"model",
+				"Rookiest Adnet\\rookiest_adnet\\src\\forum\\models.py"
+			],
+			[
+				"fav",
+				"Rookiest Adnet\\rookiest_adnet\\src\\static\\js\\fav.js"
+			],
+			[
+				"for/models",
+				"Rookiest Adnet\\rookiest_adnet\\src\\forum\\models.py"
+			],
+			[
+				"models",
+				"Rookiest Adnet\\rookiest_adnet\\src\\forum\\models.py"
+			],
+			[
+				"views/camap",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\views\\campaign.py"
+			],
+			[
+				"forum/views",
+				"Rookiest Adnet\\rookiest_adnet\\src\\forum\\views.py"
+			],
+			[
+				"for/urls",
+				"Rookiest Adnet\\rookiest_adnet\\src\\forum\\urls.py"
+			],
+			[
+				"urls",
+				"Rookiest Adnet\\rookiest_adnet\\src\\rookiest_adnet\\urls.py"
+			],
+			[
+				"form",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\forms.py"
+			],
+			[
+				"common",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\templates\\common.html"
+			],
+			[
+				"med/detail",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\templates\\mediums\\detail.html"
+			],
+			[
+				"_common",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\templates\\mediums\\_common.html"
+			],
+			[
+				"medium/list",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\templates\\mediums\\list.html"
+			],
+			[
+				"views",
+				"Rookiest Adnet\\rookiest_adnet\\src\\forum\\views.py"
+			],
+			[
+				"viewsca",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\views\\campaign.py"
+			],
+			[
+				"campain/deta",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\templates\\campaigns\\detail.html"
+			],
+			[
+				"url",
+				"Rookiest Adnet\\rookiest_adnet\\src\\forum\\urls.py"
+			],
+			[
+				"common.",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\templates\\common.html"
+			],
+			[
+				"medium/_com",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\templates\\mediums\\_common.html"
+			],
+			[
+				"medium/detail",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\templates\\mediums\\detail.html"
+			],
+			[
+				"views/mei",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\views\\medium.py"
+			],
+			[
+				"views/camp",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\views\\campaign.py"
+			],
+			[
+				"adurls",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\urls.py"
+			],
+			[
+				"fourls",
+				"Rookiest Adnet\\rookiest_adnet\\src\\forum\\urls.py"
+			],
+			[
+				"mo",
+				"Rookiest Adnet\\rookiest_adnet\\src\\forum\\models.py"
+			],
+			[
+				"board_li",
+				"Rookiest Adnet\\rookiest_adnet\\src\\forum\\templates\\forum\\board_list.html"
+			],
+			[
+				"board",
+				"Rookiest Adnet\\rookiest_adnet\\src\\forum\\templates\\forum\\board_detail.html"
+			],
+			[
+				"mode",
+				"Rookiest Adnet\\rookiest_adnet\\src\\forum\\models.py"
+			],
+			[
+				"adnetmodels",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\models.py"
+			],
+			[
+				"views/",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\views\\campaign.py"
+			],
+			[
+				"dev",
+				"Rookiest Adnet\\rookiest_adnet\\src\\rookiest_adnet\\settings\\development.py"
+			],
+			[
+				"promodels",
+				"Rookiest Adnet\\rookiest_adnet\\src\\profiles\\models.py"
+			],
+			[
+				"profiles/view",
+				"Rookiest Adnet\\rookiest_adnet\\src\\profiles\\views.py"
+			],
+			[
+				"sho",
+				"Rookiest Adnet\\rookiest_adnet\\src\\profiles\\templates\\profiles\\show_profile.html"
+			],
+			[
+				"_summ",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\templates\\campaigns\\_summary.html"
+			],
+			[
+				"view",
+				"Rookiest Adnet\\rookiest_adnet\\src\\profiles\\views.py"
+			],
+			[
+				"summ",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\templates\\campaigns\\_summary.html"
+			],
+			[
+				"forms",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\forms.py"
+			],
+			[
+				"view/camp",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\views\\campaign.py"
+			],
+			[
+				"show",
+				"Rookiest Adnet\\rookiest_adnet\\src\\profiles\\templates\\profiles\\show_profile.html"
+			],
+			[
+				"profil/mode",
+				"Rookiest Adnet\\rookiest_adnet\\src\\profiles\\models.py"
+			],
+			[
+				"profile",
+				"Rookiest Adnet\\rookiest_adnet\\src\\profiles\\apps.py"
+			],
+			[
+				"setba",
+				"Rookiest Adnet\\rookiest_adnet\\src\\rookiest_adnet\\settings\\base.py"
+			],
+			[
+				"main",
+				"Rookiest Adnet\\rookiest_adnet\\src\\static\\site\\css\\main.css"
+			],
+			[
+				"med/de",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\templates\\mediums\\detail.html"
+			],
+			[
+				"sho_",
+				"Rookiest Adnet\\rookiest_adnet\\src\\profiles\\templates\\profiles\\show_profile.html"
+			],
+			[
+				"detail",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\templates\\mediums\\detail.html"
+			],
+			[
+				"campaign/de",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\templates\\campaigns\\detail.html"
+			],
+			[
+				"profile/mode",
+				"Rookiest Adnet\\rookiest_adnet\\src\\profiles\\models.py"
+			],
+			[
+				"profile/model",
+				"Rookiest Adnet\\rookiest_adnet\\src\\profiles\\models.py"
+			],
+			[
+				"",
+				"Rookiest Adnet\\rookiest_adnet\\src\\profiles\\views.py"
+			],
+			[
+				"deat",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\templates\\mediums\\detail.html"
+			],
+			[
+				"devel",
+				"Rookiest Adnet\\rookiest_adnet\\src\\rookiest_adnet\\settings\\development.py"
+			],
+			[
+				"base.html",
+				"Rookiest Adnet\\rookiest_adnet\\src\\templates\\base.html"
+			],
+			[
+				"detail.html",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\templates\\mediums\\detail.html"
+			],
+			[
+				"mediumdetail",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\templates\\mediums\\detail.html"
+			],
+			[
+				"base.py",
+				"Rookiest Adnet\\rookiest_adnet\\src\\rookiest_adnet\\settings\\base.py"
+			],
+			[
+				"detail.",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\templates\\campaigns\\detail.html"
+			],
+			[
+				"main.css",
+				"Rookiest Adnet\\rookiest_adnet\\src\\static\\site\\css\\main.css"
+			],
+			[
+				"blog",
+				"Rookiest Adnet\\rookiest_adnet\\src\\static\\site\\css\\blog.css"
+			],
+			[
+				"campaigns/detail",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\templates\\campaigns\\detail.html"
+			],
+			[
+				"campain",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\views\\campaign.py"
+			],
+			[
+				"deve",
+				"Rookiest Adnet\\rookiest_adnet\\src\\rookiest_adnet\\settings\\development.py"
+			],
+			[
+				"medium",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\views\\medium.py"
+			],
+			[
+				"adnet/url",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\urls.py"
+			],
+			[
+				"det",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\templates\\mediums\\detail.html"
+			],
+			[
+				"meium",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\views\\medium.py"
+			],
+			[
+				"log",
+				"Rookiest Adnet\\rookiest_adnet\\src\\rookiest_adnet\\logger.py"
+			],
+			[
+				"develop",
+				"Rookiest Adnet\\rookiest_adnet\\src\\rookiest_adnet\\settings\\development.py"
+			],
+			[
+				"list.html",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\templates\\mediums\\list.html"
+			],
+			[
+				"setting",
+				"Rookiest Adnet\\rookiest_adnet\\src\\rookiest_adnet\\settings\\base.py"
+			],
+			[
+				"collect",
+				"Rookiest Adnet\\rookiest_adnet\\src\\scripts\\collect_follower.py"
+			],
+			[
+				"collect_f",
+				"Rookiest Adnet\\rookiest_adnet\\src\\scripts\\collect_follower.py"
+			],
+			[
+				"adnet/migrations/",
+				"Rookiest Adnet\\rookiest_adnet\\src\\profiles\\migrations\\0002_auto_20160520_1051.py"
+			],
+			[
+				"migrations",
+				"Rookiest Adnet\\rookiest_adnet\\src\\adnet\\migrations\\0007_auto_20160712_1627.py"
+			],
+			[
+				"develope",
+				"rookiest_adnet\\src\\rookiest_adnet\\settings\\development.py"
+			],
+			[
+				"migraion",
+				"rookiest_adnet\\src\\adnet\\migrations\\0001_initial.py"
+			],
+			[
+				"medium_",
+				"rookiest_adnet\\src\\medium_analyzer\\__init__.py"
+			],
+			[
+				"developme",
+				"rookiest_adnet\\src\\rookiest_adnet\\settings\\development.py"
+			],
+			[
+				"camp",
+				"rookiest_adnet\\src\\adnet\\views\\campaign.py"
+			],
+			[
+				"de",
+				"rookiest_adnet\\src\\rookiest_adnet\\settings\\development.py"
+			],
+			[
+				"base.",
+				"rookiest_adnet\\src\\rookiest_adnet\\settings\\base.py"
+			],
+			[
+				"base.ht",
+				"rookiest_adnet\\src\\templates\\base.html"
+			],
+			[
+				"_deal",
+				"rookiest_adnet\\src\\adnet\\templates\\campaigns\\_deal.html"
+			],
+			[
+				"_del",
+				"rookiest_adnet\\src\\adnet\\templates\\campaigns\\_deal.html"
+			],
+			[
+				"adnet_",
+				"rookiest_adnet\\src\\adnet\\templatetags\\adnet_tags.py"
+			],
+			[
+				"campaign",
+				"rookiest_adnet\\src\\adnet\\views\\campaign.py"
+			],
+			[
+				"adne",
+				"rookiest_adnet\\src\\adnet\\templatetags\\adnet_tags.py"
+			],
+			[
+				"__init__",
+				"rookiest_adnet\\src\\adnet\\__init__.py"
+			],
+			[
+				"deal",
+				"rookiest_adnet\\src\\adnet\\templates\\campaigns\\_deal.html"
+			],
+			[
+				"campaigns.html",
+				"rookiest_adnet\\src\\adnet\\templates\\strings\\_campaigns.html"
+			],
+			[
+				"camap",
+				"rookiest_adnet\\src\\adnet\\views\\campaign.py"
+			],
+			[
+				"edit",
+				"rookiest_adnet\\src\\adnet\\templates\\campaigns\\edit.html"
+			],
+			[
+				"_sum",
+				"rookiest_adnet\\src\\adnet\\templates\\campaigns\\_summary.html"
+			],
+			[
+				"bootstrap.",
+				"rookiest_adnet\\src\\static\\bootstrap\\css\\bootstrap.css"
+			],
+			[
+				"views_",
+				"rookiest_adnet\\src\\adnet\\views_default.py"
+			],
+			[
+				"campi",
+				"rookiest_adnet\\src\\adnet\\views\\campaign.py"
+			],
+			[
+				"moe",
+				"rookiest_adnet\\src\\accounts\\models.py"
+			],
+			[
+				"admin",
+				"rookiest_adnet\\src\\accounts\\admin.py"
+			],
+			[
+				"_nav",
+				"rookiest_adnet\\src\\templates\\_navbar.html"
+			],
+			[
+				"_",
+				"rookiest_adnet\\src\\templates\\_navbar.html"
+			],
+			[
+				"campaign/edit",
+				"rookiest_adnet\\src\\adnet\\templates\\campaigns\\edit.html"
+			],
+			[
+				"eidt",
+				"rookiest_adnet\\src\\adnet\\templates\\mediums\\edit.html"
+			],
+			[
+				"_btn",
+				"rookiest_adnet\\src\\adnet\\templates\\ui\\_btn_nav.html"
+			],
+			[
+				"_btn_nav",
+				"rookiest_adnet\\src\\adnet\\templates\\ui\\_btn_nav.html"
+			],
+			[
+				"common.html",
+				"rookiest_adnet\\src\\adnet\\templates\\campaigns\\_common.html"
+			],
+			[
+				"comm",
+				"rookiest_adnet\\src\\adnet\\templates\\mediums\\_common.html"
+			],
+			[
+				"edit_profile",
+				"rookiest_adnet\\src\\profiles\\templates\\profiles\\edit_profile.html"
+			],
+			[
+				"profiles/model",
+				"rookiest_adnet\\src\\profiles\\models.py"
+			],
+			[
+				"cmapaign",
+				"rookiest_adnet\\src\\adnet\\views\\campaign.py"
+			],
+			[
+				"develp",
+				"rookiest_adnet\\src\\rookiest_adnet\\settings\\development.py"
+			],
+			[
+				"base.p",
+				"rookiest_adnet\\src\\rookiest_adnet\\settings\\base.py"
+			],
+			[
+				"cam",
+				"rookiest_adnet\\src\\adnet\\views\\campaign.py"
+			],
+			[
+				"profiles/views",
+				"rookiest_adnet\\src\\profiles\\views.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\david\\workspace\\mac\\rookiest_adnet\\rookiest_adnet.sublime-project"
+			],
+			[
+				"rookiest_app_",
+				"~/workspace-/project/project_files/rookiest_app_development.sublime-project"
+			],
+			[
+				"s",
+				"~/workspace-/project/sns_collector/sns_collector.sublime-project"
+			],
+			[
+				"sns_",
+				"~/workspace-/project/sns_collector/sns_collector.sublime-project"
+			],
+			[
+				"sns",
+				"~/workspace-/project/sns_collector/sns_collector.sublime-project"
+			],
+			[
+				"auto",
+				"~/workspace-/project/autofacebook/autofacebook.sublime-project"
+			],
+			[
+				"autof",
+				"~/workspace-/project/autofacebook/autofacebook.sublime-project"
+			],
+			[
+				"roo",
+				"~/workspace-/project/RookiestWebbrowser/RookiestWebBrowser.sublime-project"
+			],
+			[
+				"rookiestW",
+				"~/workspace-/project/RookiestWebbrowser/RookiestWebBrowser.sublime-project"
+			],
+			[
+				"rookiest",
+				"~/workspace-/project/RookiestWebbrowser/RookiestWebBrowser.sublime-project"
+			],
+			[
+				"Rookiest",
+				"~/workspace-/project/RookiestWebbrowser/RookiestWebBrowser.sublime-project"
+			],
+			[
+				"rookiestWeb",
+				"~/workspace-/project/RookiestWebbrowser/RookiestWebBrowser.sublime-project"
+			],
+			[
+				"afre",
+				"~/workspace-/chrome_extension/afreeca_modern_chat/afreeca_modern_chat.sublime-project"
+			],
+			[
+				"an",
+				"~/workspace-/cherrypy/angularjs/angularjs.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"directCam",
+				"DirectCampaign"
+			],
+			[
+				"Campain",
+				"BaseCampaign"
+			],
+			[
+				"Med",
+				"Medium"
+			],
+			[
+				"medium",
+				"Medium"
+			],
+			[
+				"Base",
+				"BaseCampaign"
+			],
+			[
+				"Medium",
+				"Medium"
+			],
+			[
+				"Direct",
+				"DirectCampaign"
+			],
+			[
+				"C",
+				"Campaign"
+			],
+			[
+				"CmapainD",
+				"CampaignDetailView"
+			],
+			[
+				"M",
+				"Medium"
+			],
+			[
+				"find",
+				"find_vcvarsall"
+			],
+			[
+				"find_",
+				"find_library_file"
+			],
+			[
+				"cam",
+				"Campaign"
+			],
+			[
+				"",
+				"MediumDetailView"
+			],
+			[
+				"Mediuam",
+				"MediumDetailView"
+			],
+			[
+				"Video",
+				"Video"
+			],
+			[
+				"VideoDe",
+				"VideoDetailSerializer"
+			],
+			[
+				"VideoDE",
+				"VideoDetailSerializer"
+			],
+			[
+				"VideoSer",
+				"VideoDetailSerializer"
+			],
+			[
+				"Reported",
+				"ReportedVideo"
+			],
+			[
+				"Category",
+				"Category"
+			],
+			[
+				"UserProfile",
+				"UserProfile"
+			],
+			[
+				"ChannelSer",
+				"ChannelSerializer"
+			],
+			[
+				"Channel",
+				"Channel"
+			],
+			[
+				"VideoS",
+				"VideoSerializer"
+			],
+			[
+				"ChannelSera",
+				"ChannelSerializer"
+			],
+			[
+				"YoutubeP",
+				"YoutubeParser"
+			],
+			[
+				"upload_video",
+				"upload_video"
+			],
+			[
+				"VideoCount",
+				"VideoCount"
+			],
+			[
+				"UserPr",
+				"UserProfile"
+			],
+			[
+				"collect_channel",
+				"collect_channel_videolist"
+			],
+			[
+				"Facebook",
+				"Facebook"
+			],
+			[
+				"ReplyL",
+				"ReplyList"
+			],
+			[
+				"Face",
+				"FacebookFollowers"
+			],
+			[
+				"REplyLi",
+				"ReplyList"
+			],
+			[
+				"ReplyList",
+				"ReplyList"
+			],
+			[
+				"register_video",
+				"register_videos_to_channel"
+			],
+			[
+				"ChannelAdmin",
+				"ChannelAdmin"
+			],
+			[
+				"update",
+				"update_channel"
+			],
+			[
+				"update_c",
+				"update_channel"
+			],
+			[
+				"get_comment",
+				"get_comments_cnt"
+			],
+			[
+				"Reply",
+				"Reply"
+			],
+			[
+				"REp",
+				"Reply"
+			],
+			[
+				"category",
+				"Category"
+			],
+			[
+				"ChannelCreate",
+				"ChannelCreateView"
+			],
+			[
+				"checkAPP",
+				"checkApp"
+			],
+			[
+				"open",
+				"openCustomURLscheme"
+			],
+			[
+				"Channl",
+				"channel-list"
+			],
+			[
+				"YOutube",
+				"YoutubeParser"
+			],
+			[
+				"remove",
+				"remove"
+			],
+			[
+				"update_channel",
+				"update_channel"
+			],
+			[
+				"get_like",
+				"get_like"
+			],
+			[
+				"Faceboo",
+				"Facebook"
+			],
+			[
+				"Chnane",
+				"Channel"
+			],
+			[
+				"rewrite",
+				"rewrite_fabfile"
+			],
+			[
+				"refresh_fb",
+				"refresh_fabfile_about"
+			],
+			[
+				"VideoSEr",
+				"VideoSerializer"
+			],
+			[
+				"send_",
+				"send_update_report_error"
+			],
+			[
+				"VideoON",
+				"VideoOneParser"
+			],
+			[
+				"is_exist",
+				"check_videos_exists"
+			],
+			[
+				"exist",
+				"check_videos_exists"
+			],
+			[
+				"VideoCou",
+				"VideoCount"
+			],
+			[
+				"VideoOne",
+				"VideoOneParser"
+			],
+			[
+				"VOne",
+				"VideoOneParser"
+			],
+			[
+				"myfunc",
+				"emptyFunc"
+			],
+			[
+				"isValid",
+				"isValid"
+			],
+			[
+				"is_valid",
+				"is_valid"
+			],
+			[
+				"Videoone",
+				"VideoOneParser"
+			],
+			[
+				"UserPo",
+				"UserProfile"
+			],
+			[
+				"UserProf",
+				"UserProfile"
+			],
+			[
+				"video",
+				"Video"
+			],
+			[
+				"Videos",
+				"VideoSerializer"
+			],
+			[
+				"YoutubeParser",
+				"YoutubeParser"
+			],
+			[
+				"Youtube",
+				"getYoutubeVideoID"
+			],
+			[
+				"requestSubscription",
+				"requestSubscriptionList"
+			],
+			[
+				"ChannelSe",
+				"ChannelSerializer"
+			],
+			[
+				"add_videolist",
+				"add_videolist"
+			],
+			[
+				"Userpfoe",
+				"UserProfile"
+			],
+			[
+				"VideoSeria",
+				"VideoSerializer"
+			],
+			[
+				"VideoListS",
+				"VideoListSerializer"
+			],
+			[
+				"turn ",
+				"turn_on"
+			],
+			[
+				"PlayListDet",
+				"PlayListDetailSerializer"
+			],
+			[
+				"Playlist",
+				"PlayList"
+			],
+			[
+				"PlaylistDE",
+				"PlayListDetailSerializer"
+			],
+			[
+				"PlayListC",
+				"PlayListCollectionSerializer"
+			],
+			[
+				"GenH",
+				"GenHash"
+			],
+			[
+				"CategorySe",
+				"CategorySerializer"
+			],
+			[
+				"VideoList",
+				"VideoList"
+			],
+			[
+				"subscri",
+				"subscribe"
+			],
+			[
+				"Subscription",
+				"Subscription"
+			],
+			[
+				"SubscriptionSer",
+				"SubscriptionSerializer"
+			],
+			[
+				"UserDetail",
+				"UserDetailView"
+			],
+			[
+				"Sub",
+				"Subscription"
+			],
+			[
+				"PlaylistSer",
+				"PlayListSerializer"
+			],
+			[
+				"PlaylistS",
+				"PlayListSerializer"
+			],
+			[
+				"get_pla",
+				"get_playlist_detail"
+			],
+			[
+				"send",
+				"send_feedback_async"
+			],
+			[
+				"sendF",
+				"send_feedback_async"
+			],
+			[
+				"UserDe",
+				"UserDetailView"
+			],
+			[
+				"UserDeatil",
+				"UserDetailView"
+			],
+			[
+				"User",
+				"UserDetailView"
+			],
+			[
+				"SubscriptionS",
+				"SubscriptionSerializer"
+			],
+			[
+				"SubsCh",
+				"SubsChannelItem"
+			],
+			[
+				"UserP",
+				"UserProfile"
+			],
+			[
+				"subscription",
+				"Subscription"
+			],
+			[
+				"TodayS",
+				"TodaySlidesSerializer"
+			],
+			[
+				"VideoSE",
+				"VideoSerializer"
+			],
+			[
+				"VideoSe",
+				"VideoSerializer"
+			],
+			[
+				"Today",
+				"TodaySlides"
+			],
+			[
+				"VideoItem",
+				"VideoItem"
+			],
+			[
+				"Roo",
+				"RookiestSettings"
+			],
+			[
+				"VideoL",
+				"VideoList"
+			],
+			[
+				"UserDE",
+				"UserDetailView"
+			],
+			[
+				"ReplySer",
+				"ReplySerializer"
+			],
+			[
+				"UserPro",
+				"UserProfile"
+			],
+			[
+				"ChannelSeri",
+				"ChannelDetailSerializer"
+			],
+			[
+				"ChannelSEr",
+				"ChannelSerializer"
+			],
+			[
+				"go_channel",
+				"go_channel_detail"
+			],
+			[
+				"get_is_",
+				"get_is_subscribed"
+			],
+			[
+				"get_is",
+				"get_is_subscribed"
+			],
+			[
+				"YOutu",
+				"YoutubeParser"
+			],
+			[
+				"VideoDEatil",
+				"VideoDetailSerializer"
+			],
+			[
+				"VideoLIst",
+				"VideoList"
+			],
+			[
+				"TodayVi",
+				"todayvideos"
+			],
+			[
+				"VideoDEtail",
+				"VideoDetailSerializer"
+			],
+			[
+				"VideoDetail",
+				"VideoDetail"
+			],
+			[
+				"ReplyS",
+				"ReplySerializer"
+			],
+			[
+				"reply",
+				"Reply"
+			]
+		],
+		"width": 374.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 333.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
